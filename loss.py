@@ -28,7 +28,7 @@ class KLLoss(nn.Module):
 
 
 class DistortionTaylorApproxLoss(nn.Module):
-#Expectation of CE Taylor approx
+#Expectation of Taylor approx of log likelihood
     def __init__(self, d, device=device):
         super().__init__()
         self.device = device
