@@ -1,5 +1,5 @@
 # Flexible Variational Information Bottleneck
-The implementation code of Flexible Variational Information Bottleneck
+The implementation code of Flexible Variational Information Bottleneck <https://arxiv.org/abs/2402.01238>
 
 ## To use in a project
 See `demo.ipynb` for simple description of the usage.  
